@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Classification Using EfficientNet-B0
 
-Live app: <add your streamlit.app URL here>
+Live app: <https://miniproject-t54aderbbw53sysmrj9liu.streamlit.app/>
 
 A Streamlit web app that classifies brain MRI scans into four categories using a fine-tuned EfficientNet-B0, with Grad-CAM heatmaps showing which regions influenced the prediction.
 
