@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.env
+# NOTE: do NOT ignore *.pth or models/ - the trained model must be committed.
