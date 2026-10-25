@@ -8,8 +8,7 @@ from torchvision import transforms
 from gradcam import GradCAM
 from model import load_model
 
-MODEL_PATH = "models/best_brain_tumor_model.pth"
-
+MODEL_PATH = "best_brain_tumor_model.pth"
 # Alphabetical order = torchvision ImageFolder default. Must match training.
 CLASSES = ["glioma", "meningioma", "notumor", "pituitary"]
 DISPLAY_NAMES = {
